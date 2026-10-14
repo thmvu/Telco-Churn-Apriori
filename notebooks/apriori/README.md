@@ -8,7 +8,7 @@
 - Notebook 2: `02_transactions_apriori.ipynb` — rời rạc hóa, 42 mục Boolean, Apriori, kiểm tra mọi luật bằng đếm trực tiếp, lọc dư thừa và độ nhạy support.
 - Notebook 3: `03_rule_interpretation.ipynb` — 7 luật biên tập, diễn giải từng luật, tính tay R5, 3 hình, độ nhạy, nhóm chồng lấn và hướng dẫn ôn bảo vệ.
 
-Không thay đổi 8 notebook ML cũ. Không SMOTE, mô hình dự đoán hoặc phân cụm trong luồng này.
+Đây là project Apriori độc lập. Xem [PLAN.md](../../PLAN.md) để biết đầy đủ tiến độ và việc còn lại. Không SMOTE, mô hình dự đoán hoặc phân cụm trong luồng này.
 
 ## Chạy Notebook 1
 

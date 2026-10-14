@@ -4,6 +4,8 @@ Bài tập lớn Khai phá dữ liệu: **Khai phá luật kết hợp các đ�
 
 Luồng thực hiện: làm sạch và EDA → chuẩn bị giao dịch và Apriori → diễn giải luật. Mục tiêu là tìm các tổ hợp đặc điểm thường đi cùng `Churn=Yes` và gợi ý hướng khảo sát có căn cứ.
 
+**Tiếp tục trong chat mới:** đọc [kế hoạch, tiến độ và bàn giao](PLAN.md) trước. Tài liệu ghi các quyết định đã chốt, việc đã hoàn thành, việc còn lại và cách học từng bước. Phần thực nghiệm đã có; Word, slide và luyện bảo vệ vẫn chưa hoàn thành.
+
 ## Cấu trúc
 
 | Notebook | Nội dung |
