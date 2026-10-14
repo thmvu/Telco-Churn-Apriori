@@ -1,0 +1,4 @@
+﻿TechSupport,n_customers,n_churn,churn_rate,small_group
+No,3473,1446,0.4163547365390153,False
+Yes,2044,310,0.15166340508806261,False
+No internet service,1526,113,0.07404980340760157,False

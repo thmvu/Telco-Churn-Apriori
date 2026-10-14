@@ -1,0 +1,25 @@
+{
+  "source": "data\\raw\\WA_Fn-UseC_-Telco-Customer-Churn.csv",
+  "source_sha256": "88be4b93fbe0cc83421af1c503794c97c342eca914c1576db7c276e61d61358a",
+  "clean_sha256": "1d8717eb2f09a744a98097fe1093679a38c647dd2a1f727934d0cc2c6c72c85a",
+  "rows": 7043,
+  "columns": 20,
+  "churn_counts": {
+    "No": 5174,
+    "Yes": 1869
+  },
+  "churn_rate": 0.2653698707936959,
+  "blank_totalcharges_filled_zero": 11,
+  "rows_dropped": 0,
+  "analysis_scope": "Full dataset; descriptive, not predictive",
+  "tenure_groups_for_eda": [
+    "0–12",
+    "13–24",
+    "25–48",
+    ">48"
+  ],
+  "python": "3.12.14",
+  "pandas": "3.0.3",
+  "matplotlib": "3.11.1",
+  "seaborn": "0.13.2"
+}

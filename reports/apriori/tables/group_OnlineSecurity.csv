@@ -1,0 +1,4 @@
+﻿OnlineSecurity,n_customers,n_churn,churn_rate,small_group
+No,3498,1461,0.4176672384219554,False
+Yes,2019,295,0.14611193660227836,False
+No internet service,1526,113,0.07404980340760157,False

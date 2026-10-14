@@ -1,0 +1,4 @@
+﻿Contract,n_customers,n_churn,churn_rate,small_group
+Month-to-month,3875,1655,0.4270967741935484,False
+One year,1473,166,0.11269517990495587,False
+Two year,1695,48,0.02831858407079646,False

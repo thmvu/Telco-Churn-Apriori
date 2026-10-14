@@ -1,0 +1,2 @@
+# Bổ sung cho môi trường dự án; không thay requirements ML cũ.
+mlxtend==0.25.0

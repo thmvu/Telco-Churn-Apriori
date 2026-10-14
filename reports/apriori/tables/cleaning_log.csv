@@ -1,0 +1,7 @@
+﻿action,count,explanation
+Cắt khoảng trắng,11,"Ô được thay đổi, không xóa khách hàng"
+TotalCharges trống,11,Kiểm tra tenure=0 rồi điền 0
+SeniorCitizen,7043,"Ánh xạ 0→No, 1→Yes"
+customerID,1,Bỏ một cột định danh
+Khách hàng bị loại,0,Giữ mọi khách hàng có mã riêng
+Hồ sơ giống nhau sau bỏ ID,22,"Giữ lại, không coi là cùng khách hàng"

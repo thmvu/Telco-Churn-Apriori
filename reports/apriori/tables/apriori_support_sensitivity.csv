@@ -1,0 +1,3 @@
+﻿min_support,n_itemsets,n_target_rules,n_meeting_thresholds,n_selected,seconds
+0.05,11604,659,530,261,1.0101159000005282
+0.1,3717,221,195,137,0.2903488000010839
